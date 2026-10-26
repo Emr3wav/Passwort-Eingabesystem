@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emr3x\\Documents\\Meine Projekte\\Passwort-Eingabesystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EEA99DF-C8DA-4CA0-BFA7-E1BF6DC46868}|Passwort-Eingabesystem\\Passwort-Eingabesystem.vcxproj|C:\\Users\\emr3x\\Documents\\Meine Projekte\\Passwort-Eingabesystem\\Passwort-Eingabesystem\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4EEA99DF-C8DA-4CA0-BFA7-E1BF6DC46868}|Passwort-Eingabesystem\\Passwort-Eingabesystem.vcxproj|solutionrelative:Passwort-Eingabesystem\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\emr3x\\Documents\\Meine Projekte\\Passwort-Eingabesystem\\Passwort-Eingabesystem\\main.cpp",
+              "RelativeDocumentMoniker": "Passwort-Eingabesystem\\main.cpp",
+              "ToolTip": "C:\\Users\\emr3x\\Documents\\Meine Projekte\\Passwort-Eingabesystem\\Passwort-Eingabesystem\\main.cpp",
+              "RelativeToolTip": "Passwort-Eingabesystem\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-25T23:27:23.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
